@@ -1,0 +1,22 @@
+﻿<Config id="PrinterTool">
+<!-- Version:	2.2
+	Autor:		Béla Richartz
+	Created:	2019/10
+	Purpose:	Configurations for the PowerShell "PrinterTool".
+	Github:		https://github.com/sevi-kun/PrinterTool
+-->
+
+	<General>
+		<PrinterTool_Version>v2.2</PrinterTool_Version>
+		<Printserver>
+			<Server>srvprt01</Server>
+			<Server>srvprt02</Server>
+			<Server>srvprt03</Server>
+		</Printserver>
+	</General>
+	<Blacklist>
+		<Printer>Printername1</Printer>
+		<Printer>Printername2</Printer>
+	</Blacklist>
+
+</Config>
