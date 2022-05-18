@@ -1,7 +1,7 @@
 # PrinterTool
 A PowerShell tool to manage printers
 
-![PrinterTool Preview](https://github.com/sevi-kun/PrinterTool/blob/master/preview.png?raw=true)
+![PrinterTool Preview](https://github.com/sevi-kun/PrinterTool/blob/main/preview.png?raw=true)
 
 I wrote this tool for my company so it can be used as end-user tool.
 
